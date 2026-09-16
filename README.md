@@ -6,9 +6,9 @@ A self-directed Python project comparing different methods for pricing European 
 
 This project implements and compares:
 
-Black–Scholes model
-Cox–Ross–Rubinstein binomial tree
-Monte Carlo simulation
+- Black–Scholes model
+- Cox–Ross–Rubinstein binomial tree
+- Monte Carlo simulation
 
 The project also includes a coffee futures extension using the cost-of-carry model and the Black–76 model.
 
