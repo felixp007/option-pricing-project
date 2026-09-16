@@ -22,22 +22,22 @@ This motivated me to build a Python project to understand option pricing and num
 
 The project investigates:
 
-European call and put option pricing;
-binomial tree convergence;
-Monte Carlo convergence;
-standard error;
-volatility sensitivity;
-comparison between analytical and numerical methods.
+- European call and put option pricing;
+- binomial tree convergence;
+- Monte Carlo convergence;
+- standard error;
+- volatility sensitivity;
+- comparison between analytical and numerical methods.
 
 For the coffee futures extension, I estimate the fair futures price using cost-of-carry pricing and then compare Black–76 with a Monte Carlo simulation.
 
 ## Tools
 
-Python
-NumPy
-SciPy
-Matplotlib
-PyCharm
+- Python
+- NumPy
+- SciPy
+- Matplotlib
+- PyCharm
 
 ## Future Additions
 
